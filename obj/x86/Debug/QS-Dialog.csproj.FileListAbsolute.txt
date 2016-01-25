@@ -1,0 +1,4 @@
+E:\GitTests\Tangram_QS-Dialog\obj\x86\Debug\QS-Dialog.csprojResolveAssemblyReference.cache
+E:\GitTests\Tangram_QS-Dialog\obj\x86\Debug\tud.mci.tangram.qsdialog.QsDialog.resources
+E:\GitTests\Tangram_QS-Dialog\obj\x86\Debug\tud.mci.tangram.qsdialog.Properties.Resources.resources
+E:\GitTests\Tangram_QS-Dialog\obj\x86\Debug\QS-Dialog.csproj.GenerateResource.Cache

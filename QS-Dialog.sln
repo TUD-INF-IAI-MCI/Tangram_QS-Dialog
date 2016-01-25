@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QS-Dialog", "QS-Dialog.csproj", "{DFD37531-3CF2-40F2-A06D-ED9146C4C4F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		DebugLibre|x86 = DebugLibre|x86
+		Release|x86 = Release|x86
+		ReleaseLibre|x86 = ReleaseLibre|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFD37531-3CF2-40F2-A06D-ED9146C4C4F9}.Debug|x86.ActiveCfg = Debug|x86
+		{DFD37531-3CF2-40F2-A06D-ED9146C4C4F9}.Debug|x86.Build.0 = Debug|x86
+		{DFD37531-3CF2-40F2-A06D-ED9146C4C4F9}.DebugLibre|x86.ActiveCfg = DebugLibre|x86
+		{DFD37531-3CF2-40F2-A06D-ED9146C4C4F9}.DebugLibre|x86.Build.0 = DebugLibre|x86
+		{DFD37531-3CF2-40F2-A06D-ED9146C4C4F9}.Release|x86.ActiveCfg = Release|x86
+		{DFD37531-3CF2-40F2-A06D-ED9146C4C4F9}.Release|x86.Build.0 = Release|x86
+		{DFD37531-3CF2-40F2-A06D-ED9146C4C4F9}.ReleaseLibre|x86.ActiveCfg = ReleaseLibre|x86
+		{DFD37531-3CF2-40F2-A06D-ED9146C4C4F9}.ReleaseLibre|x86.Build.0 = ReleaseLibre|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
